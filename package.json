@@ -1,0 +1,15 @@
+{
+  "name": "@luncheon/elias-codes",
+  "version": "1.0.0",
+  "description": "Implementation of Elias gamma (γ), delta (δ) and omega (ω) coding.",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luncheon/elias-codes.git"
+  },
+  "type": "module",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "node --test *.spec.js"
+  }
+}
